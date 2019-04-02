@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /ico
+
+Sitemap: https://dongfangninglu.github.io/Sitemap.xml
